@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+.heading{
+    border-radius: 20px;
+    font-size:30px;
+    font-family: cursive;
+    letter-spacing:10px;
+}
+#cam,#picture{
+    border:3px dashed black;
+    height:300px;
+    width:350px;
+}
+#emotionresult,#emotionresult2{
+    color:black;
+    font-size:40px;
+}
+#emojiresult,#emojiresult2{
+    font-size:48px;
+    
+}
